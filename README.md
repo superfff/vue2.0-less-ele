@@ -13,7 +13,7 @@ npm run dev
 
 ```
 
-##另外
+## 另外
 
 ``` bash
 2017/05/03 update
