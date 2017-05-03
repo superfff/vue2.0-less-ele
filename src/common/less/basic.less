@@ -1,0 +1,25 @@
+// @import 'icon.less';
+// @import 'mixin.less';
+
+body,html{
+	font-family: 'PingFang SC';
+	font-weight: 200;
+}
+
+
+.clearfix{
+	display: inline-block;
+
+	&:after{
+		content: '.';
+		height: 0;
+		line-height: 0;
+		display: block;
+		clear: both;
+		visibility: hidden;
+	}
+}
+
+.overflow-hidden{
+	overflow: hidden;
+}
