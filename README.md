@@ -18,6 +18,4 @@ npm run dev
 ``` bash
 2017/05/03 update
 1.参考了网络中的介绍,对此项目进行编辑,其中使用了vue2.0和less (使用vue-cli初始化了项目)
-2.暂未添加 extract-** webpack组件,固在head中引入了许多style
-3.没了
 ```
